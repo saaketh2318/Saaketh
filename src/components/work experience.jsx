@@ -14,7 +14,7 @@ const experiences = [
   {
     role: "Research Assistant",
     company: "Northeastern University, Boston, USA",
-    duration: "Sep 2024 – Dec 2024",
+    duration: "Sep 2024 – Present",
     responsibilities: [
       "Researched latency-optimized routing algorithms for autonomous vehicle networks.",
       "Developed a priority-based routing algorithm improving link quality and energy efficiency.",
