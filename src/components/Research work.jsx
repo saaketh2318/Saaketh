@@ -31,7 +31,7 @@ const researchProjects = [
   },
   {
     title: "Eco Farming using 5G Technology",
-    duration: "Aug 2023 – Oct 2023",
+    duration: "IEEE - Jul 2025",
     description:
       "Engineered a smart farming system that integrates IoT devices with 5G-based communication for high-speed sensor data transfer and remote crop monitoring.",
     link: "https://example.com/eco-farming-5g", // Replace with actual URL
