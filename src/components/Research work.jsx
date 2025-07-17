@@ -30,7 +30,7 @@ const researchProjects = [
     link: "https://example.com/iot-water-quality", // Replace with actual URL
   },
   {
-    title: "Eco Farming using 5G Technology",
+    title: "Eco Harvesting using 5G Technology",
     duration: "IEEE - Jul 2025",
     description:
       "Engineered a smart farming system that integrates IoT devices with 5G-based communication for high-speed sensor data transfer and remote crop monitoring.",
